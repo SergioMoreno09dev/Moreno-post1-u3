@@ -24,4 +24,5 @@ El resultado es una página con tres secciones principales: **Perfil**, **Habili
    ```bash
    git clone https://github.com/tuusuario/moreno-post1-u3.git
 
-   ![Vista a la página](img/captura.png)
+
+![Vista a la página](img/captura.png)
