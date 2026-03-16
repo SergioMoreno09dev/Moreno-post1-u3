@@ -21,8 +21,7 @@ El resultado es una página con tres secciones principales: **Perfil**, **Habili
 
 ## Instrucciones de ejecución
 1. Clonar o descargar este repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/moreno-post1-u3.git
+   git clone https://github.com/SergioMoreno09dev/Moreno-post1-u3.git
 
 
 ![Vista a la página](img/captura.png)
